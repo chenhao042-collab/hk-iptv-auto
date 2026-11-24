@@ -1,5 +1,5 @@
 # Complete Project Codebase
-Generated on: Tue Nov 24 07:58:35 UTC 2026
+Generated on: Tue Nov 24 08:12:29 UTC 2026
 
 ## File: requirements.txt
 ````txt
@@ -145,7 +145,9 @@ http://r.jdshipin.com/GeWKr
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="Hong Kong",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="Hong Kong",翡翠台
-https://cdn3.indevs.in/stream/tvb/fct/
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="Hong Kong",翡翠台
+https://10.fast.hians.vip/163189/fct/
 #EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/無綫新聞台.png" group-title="Hong Kong",無綫新聞台
 https://cdn.qd.je/163189.php?id=wxxw
 #EXTINF:-1 tvg-name="無綫新聞台" tvg-logo="https://epg.112114.xyz/logo/無綫新聞台.png" group-title="Hong Kong",無綫新聞台
