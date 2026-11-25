@@ -1,5 +1,5 @@
 # Complete Project Codebase
-Generated on: Wed Nov 25 07:33:57 UTC 2026
+Generated on: Wed Nov 25 08:02:16 UTC 2026
 
 ## File: requirements.txt
 ````txt
@@ -309,15 +309,16 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    
-
-    - name: Install System FFmpeg
-      run: |    - name: Set up Python
+        - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.12'
         cache: pip
-        cache-dependency-path: requirements.txt        sudo apt-get update
+        cache-dependency-path: requirements.txt
+
+    - name: Install System FFmpeg
+      run: |
+        sudo apt-get update
         sudo apt-get install -y ffmpeg
 
     - name: Install Python dependencies
